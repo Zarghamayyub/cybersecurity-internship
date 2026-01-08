@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.log
+login-node.js-mysql-master/
