@@ -1,5 +1,3 @@
-# cybersecurity-internship
-Cybersecurity Internship Tasks – Web Application Security
 # Cybersecurity Internship – Final Project
 
 ## Project Title
@@ -7,7 +5,7 @@ Secure Node.js Express Application (Internship Project)
 
 ## Description
 This project was developed as part of my internship at DevelopersHub Corporation.
-It demonstrates Node.js, Express routing, error handling, and basic security awareness.
+It focuses on understanding web application structure and basic cybersecurity concepts.
 
 ## Technologies Used
 - Node.js
@@ -19,12 +17,18 @@ It demonstrates Node.js, Express routing, error handling, and basic security awa
 - Express server setup
 - Modular routing
 - Error handling (404)
-- Basic security testing
+- Basic security testing (XSS awareness)
 
-## Security Considerations
-- Tested for XSS input
-- Clean routing structure
-- Secure project organization
+## Security Work
+- XSS input testing using browser
+- Route validation awareness
+- Clean project structure
+
+## Final Week Update
+- Final security review completed
+- Project finalized and documented
+- GitHub repository finalized
+- Internship tasks successfully completed
 
 ## How to Run
 1. npm install
@@ -33,9 +37,8 @@ It demonstrates Node.js, Express routing, error handling, and basic security awa
 
 ## Internship Details
 - Organization: DevelopersHub Corporation
+- Role: Cybersecurity Intern
 - Duration: 3 Weeks
-- Focus: Web Development & Cybersecurity Basics
 
 ## Author
 Zargham Ayyub
-
